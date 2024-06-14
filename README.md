@@ -15,5 +15,5 @@ To use this template,
 4. Run `EDITOR="code --wait" rails credentials:edit`
 5. Do a global find and replace for `rails-devise-jwt-auth-template` with `your_project_name`
 6. Run `rails db:create db:migrate`
-7. Run `rails s` to start your api server on port 4000
+7. Run `rails s` to start your api server on port 3000
 8. Test out your [API using Postman](https://www.postman.com/orange-capsule-983544/workspace/rails-jwt)
